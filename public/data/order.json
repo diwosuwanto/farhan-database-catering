@@ -1,0 +1,64 @@
+[
+  {
+    "id": "O1715935137416_887789",
+    "date": "2024-05-17T08:38:33.511Z",
+    "status": true,
+    "orderDetail": {
+      "eventName": "Test",
+      "qty": "500",
+      "noteOrder": "Test",
+      "categoryOrder": "Prasmanan"
+    },
+    "customerDetail": {
+      "customerName": "Test",
+      "phoneNumber": "08123",
+      "address": "Test"
+    },
+    "customMenu": [
+      {
+        "menu": "Test",
+        "qty": "500",
+        "harga": "100000"
+      }
+    ],
+    "payment": {
+      "totalPayment": 50000000,
+      "marginPayment": 0,
+      "dp": 50000000
+    }
+  },
+  {
+    "id": "O1715965937475_249205",
+    "date": "2024-05-17T17:11:12.255Z",
+    "status": true,
+    "orderDetail": {
+      "eventName": "TestinOrder",
+      "qty": "500",
+      "noteOrder": "testingNote",
+      "categoryOrder": "Prasmanan"
+    },
+    "customerDetail": {
+      "customerName": "testing",
+      "phoneNumber": "08123",
+      "address": "testing"
+    },
+    "customMenu": [
+      {
+        "menu": "testing",
+        "qty": "500",
+        "harga": "20000"
+      },
+      {
+        "pembelian": "",
+        "harga": "10000",
+        "qty": "500",
+        "menu": "testing"
+      }
+    ],
+    "payment": {
+      "totalPayment": 15000000,
+      "marginPayment": 0,
+      "dp": 15000000
+    }
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "id": "E1715887190560_178877",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:19:31.232Z",
+    "note": "Gajian",
+    "category": "Salary",
+    "total": "300000",
+    "detail": [
+      {
+        "pembelian": "wak itu",
+        "harga": "200000"
+      },
+      {
+        "pembelian": "wak ini",
+        "harga": "100000"
+      }
+    ]
+  },
+  {
+    "id": "E1715887312943_616754",
+    "eventName": "TestNama",
+    "date": "2024-05-16T19:21:30.986Z",
+    "note": "Testing",
+    "category": "Belanja",
+    "total": "640000",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "20000",
+        "qty": "10"
+      },
+      {
+        "pembelian": "Ikan",
+        "harga": "40000",
+        "qty": "11"
+      }
+    ]
+  },
+  {
+    "id": "E1715889240347_777797",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889241795_874979",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889243199_048988",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889244802_670206",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889245702_397573",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889247240_909485",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889248705_250087",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889249621_208854",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889250672_198236",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889252626_119360",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889253312_703913",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889253900_633537",
+    "eventName": "Salary",
+    "date": "2024-05-16T19:53:52.930Z",
+    "note": "",
+    "category": "Salary",
+    "total": "10",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889321922_673459",
+    "eventName": "TestNama",
+    "date": "2024-05-16T19:55:14.548Z",
+    "note": "",
+    "category": "Belanja",
+    "total": "10000",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "1000",
+        "qty": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889322671_218549",
+    "eventName": "TestNama",
+    "date": "2024-05-16T19:55:14.548Z",
+    "note": "",
+    "category": "Belanja",
+    "total": "10000",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "1000",
+        "qty": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889324191_923986",
+    "eventName": "TestNama",
+    "date": "2024-05-16T19:55:14.548Z",
+    "note": "",
+    "category": "Belanja",
+    "total": "10000",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "1000",
+        "qty": "10"
+      }
+    ]
+  },
+  {
+    "id": "E1715889324838_407346",
+    "eventName": "TestNama",
+    "date": "2024-05-16T19:55:14.548Z",
+    "note": "",
+    "category": "Belanja",
+    "total": "10000",
+    "detail": [
+      {
+        "pembelian": "Ayam",
+        "harga": "1000",
+        "qty": "10"
+      }
+    ]
+  }
+]
