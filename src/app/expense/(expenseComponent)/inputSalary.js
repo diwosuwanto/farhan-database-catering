@@ -46,6 +46,7 @@ export default function InputSalary() {
     }, 3000); // Hide the success message after 3 seconds
 
     return () => clearTimeout(timeoutId);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [expenseDetails, isSuccess]);
 
   const randomPart = Math.random().toString().substring(2, 8);

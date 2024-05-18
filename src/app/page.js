@@ -34,7 +34,7 @@ export default function Home() {
       <main className=" bg-white">
         <div className="flex justify-center items-center h-screen p-10 ">
           <div className="sm:mx-auto sm:w-full sm:max-w-sm">
-            <img className="mx-auto h-40 w-auto" src={Logo.src} />
+            <img className="mx-auto h-40 w-auto" src={Logo.src} alt={Logo.src} />
             <h2 className="mt-1 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">
               Sign in to your account
             </h2>

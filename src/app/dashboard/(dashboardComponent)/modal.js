@@ -245,8 +245,8 @@ const Modal = ({ eventId, onClose, isOpen, setIsOpen }) => {
                       <div>
                         <h6 className="font-bold">Menu details</h6>
                         {eventData.customMenu.map((detail, index) => (
-                          <div className="">
-                            <div className="" key={index}>
+                          <div className="" key={index}>
+                            <div className="">
                               <label className="form-control w-full max-w-xs">
                                 <div className="label">
                                   <span className="label-text">Add custom</span>
